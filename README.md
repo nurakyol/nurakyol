@@ -6,7 +6,6 @@ Yazılım dünyasında kendini sürekli geliştiren bir öğrenciyim. Akademik p
 * 🌱 Araştırma ve denemelerim için **Jupyter Notebook** kullanmayı seviyorum.
 * 🎓 Visual Studio Code üzerinden okul projelerimi ve sınav hazırlıklarımı koda döküyorum.
 * 🎮 Kod yazmaktan arta kalan zamanlarımda beni muhtemelen bilgisayar oyunları oynarken bulabilirsiniz!
-* 📫 Bana ulaşmak için: fnurakyoll@gmail.com
 
 **Kullandığım Teknolojiler:**
 `C#` | `HTML` | `CSS` | `Git & GitHub` | `Python` | `Java` 
